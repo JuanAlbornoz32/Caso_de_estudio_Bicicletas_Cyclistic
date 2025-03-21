@@ -1,2 +1,2 @@
-# Caso-de-estudio---Bicicletas-Cyclistic
-El siguiente estudio de caso forma parte del proceso de finalización del Certificado de Análisis de Datos de Google, en el cual se busca aplicar y desarrollar las habilidades adquiridas en el programa a un problema práctico.
+# Caso-de-estudio-Bicicletas-Cyclistic
+El siguiente estudio de caso forma parte del proceso de finalización del Certificado de Análisis de Datos de Google, en el cual se busca aplicar y desarrollar las habilidades adquiridas en el programa a un problema práctico. Para ello, se me pide asumir el papel de un analista de datos junior, que trabaja en el equipo de análisis computacional de datos de marketing para una empresa ficticia de bicicletas llamada Cyclistic, y aplicar los seis pasos del proceso de análisis de datos enseñados en el programa: preguntar, preparar, procesar, analizar, compartir y actuar, a una tarea empresarial.
