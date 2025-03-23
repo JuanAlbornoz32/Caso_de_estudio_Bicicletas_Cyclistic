@@ -1,11 +1,7 @@
----
-title: "Proyecto final del Certificado de Análisis de Datos de Google"
-output: github_document
----
 
 # Proyecto final del Certificado de Análisis de Datos de Google  
 
-El siguiente caso de estudio se centra en **Cyclistic**, una empresa ficticia de bicicletas compartidas. El objetivo fue analizar las diferencias en el uso de bicicletas entre usuarios ocasionales y miembros suscritos, con el fin de identificar estrategias que fomenten la conversión de clientes ocasionales en suscriptores.  
+El siguiente caso de estudio se centra en **Cyclistic**, una empresa ficticia de bicicletas compartidas. El objetivo del proyecto es poner en práctica lo aprendido en la certificación de Análisis de Datos de Google y generar un informe completo, donde se analicen las diferencias en el uso de bicicletas entre usuarios ocasionales y miembros suscritos, con el fin de identificar estrategias que fomenten la conversión de clientes ocasionales en suscriptores.  
 
 ## ✅ Base de datos utilizada  
 
@@ -32,11 +28,14 @@ Dado que se trata de una empresa ficticia, se utilizaron los datos públicos de 
 
 ## ✅ Conclusiones  
 
-Este proyecto permitió poner en práctica todo el proceso de análisis de datos, desde la preparación y limpieza hasta la generación de insights y recomendaciones para la toma de decisiones empresariales.  
+Este proyecto me permitió poner en práctica todo el proceso de análisis de datos, desde la preparación y limpieza hasta la generación de insights y recomendaciones para la toma de decisiones empresariales, siguiendo la metodología de seis pasos propuesta por la certificación: **preguntar, preparar, procesar, analizar, compartir y actuar**. 
 
-Visualización de datos: Gráficos generados con ggplot2.
+## 📎 Enlace al entorno de ejecución  
 
-Conclusiones y recomendaciones: Presentación de estrategias basadas en los hallazgos obtenidos.
+Puedes ver la ejecución completa del análisis y el código en Kaggle en el siguiente enlace:  
+
+👉 [Caso de estudio bicicletas Cyclistic - Kaggle Notebook](https://www.kaggle.com/code/juanalbornoz90/caso-de-estudio-bicicletas-cyclistic)  
+
 
 
 
