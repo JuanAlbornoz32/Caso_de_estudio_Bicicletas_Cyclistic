@@ -28,7 +28,7 @@ Dado que se trata de una empresa ficticia, se utilizaron los datos públicos de 
 
 ## ✅ Conclusiones  
 
-Este proyecto me permitió poner en práctica todo el proceso de análisis de datos, desde la preparación y limpieza hasta la generación de insights y recomendaciones para la toma de decisiones empresariales, siguiendo la metodología de seis pasos propuesta por la certificación: **preguntar, preparar, procesar, analizar, compartir y actuar**. 
+Este proyecto me permitió poner en práctica todo el proceso de análisis de datos, desde la preparación y limpieza de datos hasta la generación de insights y recomendaciones para la toma de decisiones empresariales, siguiendo la metodología de seis pasos propuesta por la certificación: **preguntar, preparar, procesar, analizar, compartir y actuar**. 
 
 ## 📎 Enlace al entorno de ejecución en Kaggle
 
