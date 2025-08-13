@@ -13,7 +13,7 @@ Dado que se trata de una empresa ficticia, se utilizaron los datos públicos de 
 
 - 📌 **Entorno de desarrollo:** Kaggle Notebooks  
 - 📌 **Lenguaje de programación:** R  
-- 📌 **Paquetes principales:** Tidyverse (`readr`, `tidyr`, `dplyr`, `ggplot2`)  
+- 📌 **Librerias principales:** Tidyverse (`readr`, `tidyr`, `dplyr`, `ggplot2`)  
 
 ## ✅ Proceso de análisis  
 
